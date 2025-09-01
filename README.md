@@ -12,7 +12,7 @@ Users can get personalized movie suggestions based on their preferences.
 - Python (pandas, numpy, scikit-learn, joblib)
 - Streamlit for front-end
 
-## 📸 Screenshot
+## Demo
 ![Movie Recommender Screenshot](movie_recommendation.png)
 
 ## Deployment
